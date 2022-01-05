@@ -1,0 +1,1 @@
+Adaptação para mobile do site de e-commerce voltado ao universo gamer. Elaborei um hipotético site, inspirado em um jogo de celular em que se soluciona quebra-cabeças visuais, tendo por base a geometria sagrada e oriental.
